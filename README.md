@@ -86,6 +86,7 @@ Reinforcement Learning Tutorial (#12)
 This tutorial dives into the field of reinforcement learning and explores higher logic ML with the Cartpole problem. Other techniques covered include SARSA, Q-learning, and Monte Carlo Methods
 
 **Advanced Tutorials**
+
 From this point on, much of the tutorials have a relatively similar level of difficulty and delve into a wide variety of topics. Feel free to explore what you are interested in! Also, please make sure to check out the curriculum and book on startonai.com. 
 
 
