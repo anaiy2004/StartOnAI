@@ -3,7 +3,7 @@ Tutorials for background (Python, Statistics, and Data Processing with Linear Al
 
 Heads and Editors: Siddharth Sharma, Anaiy Somalwar, and Shrey Gupta
 
-Content Creators: Ayush Karupakula, Andy Phung, Aditya Chakka, Keshav Shah, Navein Suresh, Aurko Roth, and the StartOnAI Organization.
+Content Creators: Ayush Karupakula, Andy Phung, Aditya Chakka, Keshav Shah, Navein Suresh, Aurko Roth, and the StartOnAI Organization
 
 
 
